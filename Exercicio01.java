@@ -15,8 +15,7 @@ public class Exercicio01{
     System.out.print("Digite a terceira nota: ");
     double nota3 = scan.nextDouble();
 
-    double soma = nota1 + nota2 + nota3;
-    double media = soma / 3;
+    double media = (nota1 + nota2 + nota3) / 3;
 
     System.out.print("A media do Aluno é: " + df.format(media));
     sc.close();
