@@ -15,7 +15,7 @@ public class Exercicio01{
     System.out.print("Digite a terceira nota: ");
     double nota3 = scan.nextDouble();
 
-    double soma = nota1 + nota 2 + nota 3;
+    double soma = nota1 + nota2 + nota3;
     double media = soma / 3;
 
     sc.close();
