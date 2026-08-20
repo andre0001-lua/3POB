@@ -1,4 +1,3 @@
-//calculo de salario usando valor hora trabalho com horas trabalhadas e desconto do inss de 10% no final mostrar salario bruto e liquido
 import java.util.Scanner;
 import java.text.DecimalFormat;
 
