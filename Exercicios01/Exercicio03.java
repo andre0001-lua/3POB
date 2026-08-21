@@ -1,3 +1,5 @@
+package 3POB.Exercicios01;
+
 import java.util.Scanner;
 import java.text.DecimalFormat;
 
