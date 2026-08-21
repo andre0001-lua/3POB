@@ -1,4 +1,4 @@
-package 3POB.Exercicios01;
+package _3POB.Exercicios01;
 
 import java.util.Scanner;
 import java.text.DecimalFormat;
@@ -18,7 +18,7 @@ public class Exercicio01{
     double media = (nota1 + nota2 + nota3) / 3;
 
     System.out.print("A media do Aluno é: " + df.format(media));
-    sc.close();
+    scan.close();
     
   }
 }
