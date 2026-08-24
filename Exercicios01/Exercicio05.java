@@ -9,7 +9,6 @@ public class Exercicio05 {
         System.out.print("Digite os segundos: ");
         int segundos = scan.nextInt();
 
-
         int horas = segundos / 3600;
         int minutos = (segundos % 3600) / 60;
         int segundosRestantes = segundos % 60;
