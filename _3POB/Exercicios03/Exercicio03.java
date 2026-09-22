@@ -2,7 +2,7 @@ package _3POB.Exercicios03;
 
 import java.util.Scanner;
 
-public class Exercicio3 {
+public class Exercicio03 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
@@ -11,7 +11,7 @@ public class Exercicio3 {
 
         do {
             System.out.print("Digite a senha: ");
-            senha = scanner.nextInt();
+            senha = scan.nextInt();
 
             if (senha != SENHA_CORRETA) {
                 System.out.println("Senha Incorreta! Tente novamente.");
